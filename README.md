@@ -31,3 +31,6 @@ Post -- PostTag (Owner) -- Tag
 - Ownning relation is the one containing the foreign key (PostTag)
 - Post (@OneToMany) -- PostTag (@ManyToOne)
 - Tag (@OneToMany) -- PostTag (@ManyToOne)
+
+
+https://github.com/evgeniy-khist/spring-data-examples
